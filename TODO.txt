@@ -1,0 +1,29 @@
+Dobrý deň pán Varga,
+
+Potreboval by som pomôcť s konkrétnym IT zadaním a narazil som pri hľadaní na Vašu spoločnosť. Nižšie Vám spíšem opis toho čo  konkrétne potrebujem a v prílohe posielam taktiež aj video ako presne to má vyzerať.
+
+potrebujem spraviť jedno špecifické zadanie: potrebujem aby sa mi v telegram skupinách zobrazovali inzeráty na predaj/ prenájom nehnuteľností priamo z realitných portálov nasledovne:
+
+Telegram skupina 1.: BA prenájom - tu sa zobrazia inzeráty nehnuteľností z okresov Bratislava, ktoré sú iba na prenájom a iba od súkromných osôb (nie realitných kancelárií)
+
+Telegram skupina 2.: BA predaj - tu sa zobrazia inzeráty nehnuteľností z okresov Bratislava, ktoré sú iba na predaj a iba od súkromných osôb (nie realitných kancelárií)
+
+Telegram skupina 3.: MA, PK, SC prenájom - tu sa zobrazia inzeráty nehnuteľností z okresov Malacky, Pezinok, Senec, ktoré sú iba na prenájom a iba od súkromných osôb (nie realitných kancelárií)
+
+a tak ďalej.. dokopy bude skupín 6. Logika je však takáto. Každá skupina musí obsahovať iba jeden konkrétny typ inzerátov. Program bude trackovať viaceré realitné portály ako nehnuteľnosti.sk, bazos.sk, reality.sk a pod. Konkrétne portály spíšem. Do telegram skupiny sa zlievajú inzeráty zo všetkých portálov.
+
+Trošku som si o tom študoval a telegram by mal fungovať cez telegram bota a inzeráty by sa tam mali dať pridať pomocou python programovania alebo cez AI platformy ako make, n8n a pod. Konkrétny postup však nechám na Vás.
+
+Je niečo takéto pre Vás reálne spraviť? Myslím, že to nie je náročné zadanie, moje biedne IT schopnosti to však prevyšuje.
+
+Samozrejme potrebujem to čím skôr, ak by sme to vedeli stihnúť ešte pred Vianocami bolo by to úplne super.
+
+Samozrejme, v prípade potreby si k tomu môžeme dať aj online call kde Vám to zhrniem bližšie.
+
+Ďakujem a prajem pekný zvyšok dňa
+
+S pozdravom
+
+Adrián Szabó
+
+konateľ
